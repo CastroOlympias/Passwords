@@ -24,3 +24,7 @@ THEN a password is generated that matches the selected criteria
 
 *WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+
+Repo link: https://github.com/CastroOlympias/Passwords
+Application link: https://castroolympias.github.io/Passwords/
