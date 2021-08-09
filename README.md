@@ -29,3 +29,5 @@ THEN the password is either displayed in an alert or written to the page
 Repo link: https://github.com/CastroOlympias/Passwords
 Application link: https://castroolympias.github.io/Passwords/
 Screnn shot link: https://github.com/CastroOlympias/Passwords/blob/main/Password%20generator%20screenshot.png
+
+<img src="./Password generator screenshot.png">
